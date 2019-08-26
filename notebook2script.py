@@ -1,0 +1,1 @@
+/home/ravivijay/fastai_python/course-v3/nbs/dl2/notebook2script.py
